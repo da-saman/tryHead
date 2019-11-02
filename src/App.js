@@ -15,7 +15,7 @@ class App extends Component {
       <div>
         <NewMessageForm onSend={this.handleSend} />
         <MessageList data={messages} />
-        <p>Hello</p>
+        <p>Hello nn</p>
       </div>
     );
   }
